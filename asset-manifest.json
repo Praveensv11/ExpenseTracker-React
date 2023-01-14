@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https//Praveensv11.github.io/ExpenseTracker/static/css/main.4b998ee4.css",
+    "main.js": "/https//Praveensv11.github.io/ExpenseTracker/static/js/main.1df57b7d.js",
+    "index.html": "/https//Praveensv11.github.io/ExpenseTracker/index.html",
+    "main.4b998ee4.css.map": "/https//Praveensv11.github.io/ExpenseTracker/static/css/main.4b998ee4.css.map",
+    "main.1df57b7d.js.map": "/https//Praveensv11.github.io/ExpenseTracker/static/js/main.1df57b7d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b998ee4.css",
+    "static/js/main.1df57b7d.js"
+  ]
+}
